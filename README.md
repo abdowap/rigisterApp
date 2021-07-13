@@ -1,6 +1,5 @@
 # curdapp
 
-This application was generated using JHipster Flutter generator, you can find documentation at [https://github.com/merlinofcha0s/generator-jhipster-flutter](https://github.com/merlinofcha0s/generator-jhipster-flutter).
 
 ## Prerequisite
 
